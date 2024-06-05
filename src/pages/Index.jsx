@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Container, VStack, Box, Text, Image } from "@chakra-ui/react";
+import { Container, Box, Text, Image } from "@chakra-ui/react";
 
 const Index = () => {
   return (
